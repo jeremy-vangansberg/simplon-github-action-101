@@ -34,7 +34,3 @@ Pour plus d'informations sur GitHub Actions, consultez :
 
 Ce projet est sous licence MIT. 
 
----
-*Créé avec ❤️ par Jeremy Van Gansbeke*
-*Formation Simplon - 2024*
-
